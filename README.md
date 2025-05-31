@@ -1,8 +1,5 @@
 
 ---
-
-*📝 README.md*
-
 *🧮 Hesap Makinesi*
 
 *📢 Katkıda Bulunma*
